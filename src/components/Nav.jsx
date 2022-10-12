@@ -44,7 +44,7 @@ export const Nav = () => {
           <Toolbar>
             <Typography
               variant="h6"
-              onClick={() => navigate("/")}
+              onClick={() => navigate("/CryptoWorld")}
               className={classes.title}
             >
               CryptoWorld
